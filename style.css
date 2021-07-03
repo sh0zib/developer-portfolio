@@ -15,9 +15,16 @@ section{
     width:50%;
     padding-left: 5%;
 }
+.half{
+    width: 50%;
+    padding-left: 5%;
+}
 .half-width img{
     width: 70%;
     padding-top: 8%;
+}
+.half img{
+width: 70%;
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +38,20 @@ section{
 .top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+
+}
+.dream{
+    margin-top: 15%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.link{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 700;
 }
