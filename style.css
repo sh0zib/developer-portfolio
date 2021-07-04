@@ -58,8 +58,8 @@ h2{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    padding-left: 20px;
-    border-radius: 10px;    
+    padding-left: 10px;
+    border-radius: 10px;
 }
 .experiences{
     background-image: url(images/exp-bg.png);
@@ -79,4 +79,8 @@ h2{
 footer p{
     text-align: center;
     margin-top: 50px;
+}
+#full{
+    text-align: justify;
+    padding-right: 10px;
 }
